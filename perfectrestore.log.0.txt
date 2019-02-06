@@ -1,0 +1,12 @@
+Feb/06/2019 01:42:46 system,info log action added by admin
+Feb/06/2019 01:42:46 system,info log rule added by admin
+Feb/06/2019 01:42:46 system,info log rule added by admin
+Feb/06/2019 01:42:46 system,info log rule added by admin
+Feb/06/2019 01:42:46 system,info log rule added by admin
+Feb/06/2019 01:42:46 system,info log rule added by admin
+Feb/06/2019 01:42:46 system,info log rule added by admin
+Feb/06/2019 01:42:46 script,info BEGIN IMPORT file=flash/backup.rsc
+Feb/06/2019 01:42:46 script,info I am a perfect script!
+Feb/06/2019 01:42:46 script,info I contain no errors
+Feb/06/2019 01:42:46 script,info Just testing here
+Feb/06/2019 01:42:46 script,info END IMPORT file=flash/backup.rsc
